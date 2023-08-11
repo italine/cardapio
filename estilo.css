@@ -1,0 +1,28 @@
+body,html{
+
+
+margin:auto;
+border:solid 10px blue;
+background-color: hsl(295, 100%, 66%);
+}
+#destaque{
+    background-image:url(fundo\ do\ mar.jpg) ;
+    text-align: center;
+    color: rgb(238, 232, 222);
+    height: 200px;
+
+}
+#item{
+    width: 20%;
+    text-align: center;
+    padding: 2%;
+}
+
+#produtos{
+    border: 6px solid;
+    border-style: double green;
+    text-align: justify;
+}
+footer{
+text-align: center;
+}
